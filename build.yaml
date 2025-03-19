@@ -7,9 +7,9 @@
 #
 # board: [ "nice_nano_v2" ]
 # shield: [ "corne_left", "corne_right" ]
-# include:
-#   - board: bdn9_rev2
-#   - board: nice_nano_v2
+include:
+  - board: endgame
+  - board: sparkfun_pro_micro_rp2040
 #     shield: reviung41
 #   - board: nice_nano_v2
 #     shield: corne_left

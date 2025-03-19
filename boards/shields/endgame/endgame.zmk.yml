@@ -1,0 +1,9 @@
+file_format: "1"
+id: endgame
+name: Endgame2024
+type: shield
+url: https://github.com/OldMan6955/TheEndgame2024
+requires: [sparkfun_pro_micro_rp2040]
+exposes: []
+features:
+  - keys
