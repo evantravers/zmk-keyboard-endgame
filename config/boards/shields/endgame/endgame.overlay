@@ -40,6 +40,7 @@ RC(3,0)                 RC(3,1) RC(3,2) RC(3,3)                         RC(3,4)
             , <&pro_micro 15 GPIO_ACTIVE_HIGH>
             , <&pro_micro 26 GPIO_ACTIVE_HIGH>
             , <&pro_micro 27 GPIO_ACTIVE_HIGH>
+            , <&pro_micro 28 GPIO_ACTIVE_HIGH>
             ;
 
         row-gpios
