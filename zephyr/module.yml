@@ -1,4 +1,0 @@
-name: zmk-keyboard-endgame
-build:
-  settings:
-    board_root: .
